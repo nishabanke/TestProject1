@@ -1,1 +1,3 @@
-VimCrypt~03!œ,ÍvüGÓBİQ?~“8z¶!7ˆ“ëŞuä7²'ÈH9ı}ªql’å—ù÷k€ºĞ@-kR@•t$¶ÓÏ¦XAYC2¦Ö/oR¤P|d­J,{Bós“ ;W…¿SNzN;r¬-®°¡y8e,¬şA8¦3CÉo|
+public class MyClass {
+	// no methoths yet
+}
